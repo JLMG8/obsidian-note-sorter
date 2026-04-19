@@ -1,11 +1,10 @@
 {
-	"id": "obsidian-note-sorter",
-	"name": "Note sorter",
-	"version": "1.0.9",
-	"minAppVersion": "1.0.9",
+	"id": "note-sorter",
+	"name": "Note Sorter",
+	"version": "1.0.3",
+	"minAppVersion": "1.0.3",
 	"description": "Shift + Drag and drop to customize the order of notes in a folder.",
 	"author": "Jose Luis Melandri Garcia",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"authorUrl": "https://github.com/JLMG8",
 	"isDesktopOnly": false
 }
